@@ -10,5 +10,6 @@ The legality is dubious, driving with purple or magenta is technically legal, as
 
 The circuit is pretty simple. It can be seen here. https://instagram.com/p/6u5cjUk3bW/
 
- I'll draw and upload it at some point. It's basically three logic level mosfets, one per channel with diodes to keep them seperated, and a voltage divider with 220ohm and 2x220ohm to map 15V to 5V. 
+ I'll draw and upload it at some point. It's basically three logic level mosfets, one per channel with diodes to keep them seperated, and a voltage divider with 220ohm and 2x220ohm to map 15V to 5V. There is a vampire clip attached to the footwell light. 
 
+It's powered by a fuse tap and the ground is underneath a bolt on the frame. It has a 5A fuse to ensure it's safe if shorted. 
